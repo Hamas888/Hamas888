@@ -1,4 +1,4 @@
-# Hello, Digital Wanderer! 👾
+## Hello, Digital Wanderer! 👾
 
 Welcome to My GitHub World! 🌐
 "There are 10 types of people in the world: those who understand binary, and those who don’t." 😄
