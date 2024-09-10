@@ -1,9 +1,7 @@
 # 👾 Hamas Saeed: Embedded Firmware Wizard 👾
-
 <p align="center">
-  <img src="https://media.giphy.com/media/fwbzI2kV3Qrlpkh59e/giphy.gif" alt="Mind-blowing programmer" />
+  <img src="https://media.giphy.com/media/Riu2QxvmfrvzRUs6Rv/giphy.gif" alt="Mind-blowing programmer" />
 </p>
-
 > "There are 10 types of people in the world: those who understand binary, and those who don’t." 😎
 
 ### Welcome to my tech dojo! 🏯 Where code and hardware meet the digital magic of the IoT cosmos.
