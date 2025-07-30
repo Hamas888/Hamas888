@@ -48,7 +48,7 @@ I'm **Hamas Saeed**, an **Embedded Firmware Engineer** with over **4 years** of 
       <img src="https://cdncloudcart.com/6767/product_categories/images/57/57_600x600.png?1704184299" alt="BLE" width="60" />
       <img src="https://ww1.aurbot.com/wp-content/uploads/2020/09/LoRa-logo2.png" alt="Lora" width="70" />
       <img src="https://www.aranacorp.com/wp-content/uploads/espnow-logo.png" alt="esp now" width="70" /> 
-      <img src="https://www.deos-ag.com/wp-content/uploads/logo-mqtt-ver.png" alt="mqtt" width="70" /> 
+      <img src="https://mqtt.org/assets/downloads/mqtt-ver.png" alt="mqtt" width="70" /> 
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/HTTP_logo.svg/2560px-HTTP_logo.svg.png" alt="mqtt" width="70" /> 
       <img src="https://eodhd.com/financial-apis/wp-content/uploads/2021/10/Real-Time-Data-API-WebSockets.png" alt="mqtt" width="70" /> 
       <img src="https://www.striim.com/wp-content/themes/striim2022/images/connectors_icons/white/udp.png" alt="mqtt" width="70" /> 
