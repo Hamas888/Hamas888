@@ -83,4 +83,22 @@ I'm **Hamas Saeed**, an **Embedded Firmware Engineer** with over **4 years** of 
       <img src="https://dbdb.io/media/logos/ibm-db2-vertical.svg" alt="postgresql" width="60" height="60"/>
       <img src="https://brandeps.com/logo-download/F/Firestore-logo-vector-01.svg" alt="AWS" width="50"/>
     </p>
+---
 
+### 🚀 Projects
+
+#### Open Source
+
+| Project Name           | Description                                                 | GitHub Link                                                                |
+| ---------------------- | ----------------------------------------------------------- | -------------------------------------------------------------------------- |
+| `OTA Dash`             | Lightweight, plug-and-play web-based dashboard for ESP32.   | [GitHub Repo](https://github.com/Hamas888/OTA-Dash)                        |
+
+#### Company Projects
+
+| Project Name           | Description                                                 | Status                                                                     |
+| ---------------------- | ----------------------------------------------------------- | -------------------------------------------------------------------------- |
+| `PoE Switch`           | Multi-port Power over Ethernet (PoE) switch.                | [GitHub Repo](https://github.com/Hamas888/Multiport-PoE-Ethernet-Switch)   |
+| `Plumbing Cap`         | Drainange Blockage Detection.                               | [GitHub Repo](https://github.com/Hamas888/Plumbing-Cap-IoT-AWS)            |
+| `Vehicle Tracker`      | OBD-II, plug-and-play GPS vehicle tracker.                  | [GitHub Repo](https://github.com/Hamas888/IVMS_OBD-II_Vehical_Tracker)     |
+
+---
