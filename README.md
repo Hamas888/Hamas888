@@ -44,6 +44,7 @@ I'm **Hamas Saeed**, an **Embedded Firmware Engineer** with over **4 years** of 
 </p>
 
 - **Protocols**:
+  - **Wireless**:
     <p align="center">
       <img src="https://cdncloudcart.com/6767/product_categories/images/57/57_600x600.png?1704184299" alt="BLE" width="60" />
       <img src="https://ww1.aurbot.com/wp-content/uploads/2020/09/LoRa-logo2.png" alt="Lora" width="70" />
@@ -82,6 +83,11 @@ I'm **Hamas Saeed**, an **Embedded Firmware Engineer** with over **4 years** of 
       <img src="https://isagebrum.com/images/technology/dynamo_db-image.svg" alt="postgresql" width="60" height="60"/>
       <img src="https://dbdb.io/media/logos/ibm-db2-vertical.svg" alt="postgresql" width="60" height="60"/>
       <img src="https://brandeps.com/logo-download/F/Firestore-logo-vector-01.svg" alt="AWS" width="50"/>
+    </p>
+    
+- **Tools**:
+    <P align="center">
+      <img src="https://icon-icons.com/icon/github-logo/229278" alt="github" width="60" height="60"/>
     </p>
 ---
 
