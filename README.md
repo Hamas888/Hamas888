@@ -60,7 +60,7 @@ I'm **Hamas Saeed**, an **Embedded Firmware Engineer** with over **4 years** of 
 - **IDE's / Code Editors / Frameworks**:
   <p align="center">
   <img src="https://user-images.githubusercontent.com/16562333/54928769-ba986300-4f14-11e9-91d7-ecc6640d1989.png" alt="STM Cube" width="60" height="60"/>
-  <img src="https://variwiki.com/images/archive/4/4e/20211220183943%21Qt_logo.png" alt="QT Creator" width="80" />
+  <img src="https://upload.wikimedia.org/wikipedia/ru/f/f6/QtCreatorIcon.png" alt="QT Creator" width="65" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" alt="Arduino" width="60" height="60"/>
   <img src="https://logos-download.com/wp-content/uploads/2022/12/Keil_Logo.png" alt="Keil" width="150" height="60"/>
@@ -87,7 +87,10 @@ I'm **Hamas Saeed**, an **Embedded Firmware Engineer** with over **4 years** of 
     
 - **Tools**:
     <P align="center">
-      <img src="https://icon-icons.com/icon/github-logo/229278" alt="github" width="60" height="60"/>
+      <img src="https://images.icon-icons.com/3685/PNG/512/github_logo_icon_229278.png" alt="github" width="60" height="60"/>
+      <img src="https://images.icon-icons.com/2699/PNG/512/gitlab_logo_icon_169112.png" alt="gitlab" width="60" height="60"/>
+      <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="postman" width="60" height="60"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1483px-Jenkins_logo.svg.png" alt="jenkins" width="40" height="60"/>
     </p>
 ---
 
