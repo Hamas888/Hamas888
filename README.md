@@ -98,12 +98,13 @@ I'm **Hamas Saeed**, an **Embedded Firmware Engineer** with over **4 years** of 
 | Project Name           | Description                                                 | GitHub Link                                                                |
 | ---------------------- | ----------------------------------------------------------- | -------------------------------------------------------------------------- |
 | `OTA Dash`             | Lightweight, plug-and-play web-based dashboard for ESP32.   | [GitHub Repo](https://github.com/Hamas888/OTA-Dash)                        |
+| `ChronoLog`            | Lightweight, cross-platform logging (ESP32, STM32, nRF52).  | [GitHub Repo](https://github.com/Hamas888/ChronoLog)                       |
 
-#### Company Projects
+#### Professional Projects
 
 | Project Name           | Description                                                 | Status                                                                     |
 | ---------------------- | ----------------------------------------------------------- | -------------------------------------------------------------------------- |
-| `PoE Switch`           | Multi-port Power over Ethernet (PoE) switch.                | [GitHub Repo](https://github.com/Hamas888/Multiport-PoE-Ethernet-Switch)   |
+| `PoE Switch`           | Multi-port Managed Power over Ethernet (PoE) switch.        | [GitHub Repo](https://github.com/Hamas888/Multiport-PoE-Ethernet-Switch)   |
 | `Plumbing Cap`         | Drainange Blockage Detection.                               | [GitHub Repo](https://github.com/Hamas888/Plumbing-Cap-IoT-AWS)            |
 | `Vehicle Tracker`      | OBD-II, plug-and-play GPS vehicle tracker.                  | [GitHub Repo](https://github.com/Hamas888/IVMS_OBD-II_Vehical_Tracker)     |
 
