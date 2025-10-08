@@ -98,10 +98,20 @@ I'm **Hamas Saeed**, an **Embedded Firmware Engineer** with over **4 years** of 
 
 #### Open Source
 
-| Project Name           | Description                                                 | GitHub Link                                                                |
-| ---------------------- | ----------------------------------------------------------- | -------------------------------------------------------------------------- |
-| `OTA Dash`             | Lightweight, plug-and-play web-based dashboard for ESP32.   | [GitHub Repo](https://github.com/Hamas888/OTA-Dash)                        |
-| `ChronoLog`            | Lightweight, cross-platform logging (ESP32, STM32, nRF52).  | [GitHub Repo](https://github.com/Hamas888/ChronoLog)                       |
+| Project Name               | Description                                                        | GitHub Link                                                                |
+| -------------------------- | ------------------------------------------------------------------ | -------------------------------------------------------------------------- |
+| `OTA Dash`                 | Lightweight, plug-and-play web-based Dashboard for ESP32/ESP8266.  | [GitHub Repo](https://github.com/Hamas888/OTA-Dash)                        |
+| `ChronoLog`                | Lightweight, cross-platform Logging (ESP32/ESP8266, STM32, nRF52). | [GitHub Repo](https://github.com/Hamas888/ChronoLog)                       |
+| `HMS_DRV26XX_DRIVER`       | Lightweight, cross-platform Haptics (ESP32, STM32, nRF52).         | [GitHub Repo](https://github.com/Hamas888/HMS_DRV26XX_DRIVER)              |
+| `HMS_MPU6050_DRIVER`       | Lightweight, cross-platform Motion Detection (ESP32, STM32, nRF52).| [GitHub Repo](https://github.com/Hamas888/HMS_MPU6050_DRIVER)              |
+| `HMS_MQXXX_DRIVER`         | Lightweight, cross-platform Gas Detection (ESP32, STM32, nRF52).   | [GitHub Repo](https://github.com/Hamas888/HMS_MQXXX_DRIVER)                |
+| `HMS_BH17XX_DRIVER`        | Lightweight, cross-platform Light Intensity (ESP32, STM32, nRF52). | [GitHub Repo](https://github.com/Hamas888/HMS_BH17XX_DRIVER)               |
+| `HMS_NEO6M_DRIVER`         | Lightweight, cross-platform GPS Location (ESP32, STM32, nRF52).    | [GitHub Repo](https://github.com/Hamas888/HMS_NEO6M_DRIVER)                |
+| `HMS_SoilSensor_DRIVER`    | Lightweight, cross-platform Soil Moisture (ESP32, STM32, nRF52).   | [GitHub Repo](https://github.com/Hamas888/HMS_SoilSensor_DRIVER)           |
+| `Basic_MQTT_Relay_Control` | Easy to deploy Mosquitto + FastAPI based relay control (ESP).      | [GitHub Repo](https://github.com/Hamas888/Basic_MQTT_Relay_Control)        |
+
+
+https://github.com/Hamas888/Basic_MQTT_Relay_Control
 
 #### Professional Projects
 
