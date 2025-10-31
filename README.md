@@ -97,6 +97,7 @@ I'm **Hamas Saeed**, an **Embedded Firmware Engineer** with over **4 years** of 
 ### 🚀 Projects
 
 #### Open Source
+##### Note: Some are in deveolpment or In Pipline as my crossplatform embeded drivers/libraries.
 
 | Project Name               | Description                                                        | GitHub Link                                                                |
 | -------------------------- | ------------------------------------------------------------------ | -------------------------------------------------------------------------- |
@@ -109,8 +110,6 @@ I'm **Hamas Saeed**, an **Embedded Firmware Engineer** with over **4 years** of 
 | `HMS_NEO6M_DRIVER`         | Lightweight, cross-platform GPS Location (ESP32, STM32, nRF52).    | [GitHub Repo](https://github.com/Hamas888/HMS_NEO6M_DRIVER)                |
 | `HMS_SoilSensor_DRIVER`    | Lightweight, cross-platform Soil Moisture (ESP32, STM32, nRF52).   | [GitHub Repo](https://github.com/Hamas888/HMS_SoilSensor_DRIVER)           |
 | `Basic_MQTT_Relay_Control` | Easy to deploy Mosquitto + FastAPI based relay control (ESP).      | [GitHub Repo](https://github.com/Hamas888/Basic_MQTT_Relay_Control)        |
-
-##### Note: Some are in deveolpment.
 
 
 #### Professional Projects
