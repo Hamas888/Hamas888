@@ -119,5 +119,6 @@ I'm **Hamas Saeed**, an **Embedded Firmware Engineer** with over **4 years** of 
 | `PoE Switch`           | Multi-port Managed Power over Ethernet (PoE) switch.        | [GitHub Repo](https://github.com/Hamas888/Multiport-PoE-Ethernet-Switch)   |
 | `Plumbing Cap`         | Drainange Blockage Detection.                               | [GitHub Repo](https://github.com/Hamas888/Plumbing-Cap-IoT-AWS)            |
 | `Vehicle Tracker`      | OBD-II, plug-and-play GPS vehicle tracker.                  | [GitHub Repo](https://github.com/Hamas888/IVMS_OBD-II_Vehical_Tracker)     |
+| `Industrial IoT Node`  | Remote Relay, Sceurity Recordings GSM/GPS 4G(LTE-Cat4) Node.| [GitHub Repo](https://github.com/Hamas888/industrial-remote-relay-iot-node)|
 
 ---
