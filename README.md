@@ -103,6 +103,10 @@ I'm **Hamas Saeed**, an **Embedded Firmware Engineer** with over **4 years** of 
 | -------------------------- | ------------------------------------------------------------------ | -------------------------------------------------------------------------- |
 | `OTA Dash`                 | Lightweight, plug-and-play web-based Dashboard for ESP32/ESP8266.  | [GitHub Repo](https://github.com/Hamas888/OTA-Dash)                        |
 | `ChronoLog`                | Lightweight, cross-platform Logging (ESP32/ESP8266, STM32, nRF52). | [GitHub Repo](https://github.com/Hamas888/ChronoLog)                       |
+| `HMS_BLE`                  | Lightweight, cross-platform BLE (ESP32/ESP8266, STM32, nRF52).     | [GitHub Repo](https://github.com/Hamas888/HMS_BLE)                         |
+| `HMS_JSON`                 | Lightweight, cross-platform JSON Doc (ESP32/ESP8266, STM32, nRF52).| [GitHub Repo](https://github.com/Hamas888/HMS_JSON)                        |
+| `HMS_MQTT`                 | Lightweight, cross-platform MQTT (ESP32/ESP8266, STM32, nRF52).    | [GitHub Repo](https://github.com/Hamas888/HMS_MQTT)                        |
+| `HMS_PN532_DRIVER`         | Lightweight, cross-platform NFC (ESP32/ESP8266, STM32, nRF52).     | [GitHub Repo](https://github.com/Hamas888/HMS_PN532_DRIVER)                |
 | `HMS_DRV26XX_DRIVER`       | Lightweight, cross-platform Haptics (ESP32, STM32, nRF52).         | [GitHub Repo](https://github.com/Hamas888/HMS_DRV26XX_DRIVER)              |
 | `HMS_MPU6050_DRIVER`       | Lightweight, cross-platform Motion Detection (ESP32, STM32, nRF52).| [GitHub Repo](https://github.com/Hamas888/HMS_MPU6050_DRIVER)              |
 | `HMS_MQXXX_DRIVER`         | Lightweight, cross-platform Gas Detection (ESP32, STM32, nRF52).   | [GitHub Repo](https://github.com/Hamas888/HMS_MQXXX_DRIVER)                |
