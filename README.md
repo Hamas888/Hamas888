@@ -10,7 +10,7 @@
 <!--![Profile views](https://komarev.com/ghpvc/?username=yourusername&color=blue) 
 [![GitHub](https://img.shields.io/badge/Github-yourusername-blue?style=flat-square&logo=github)](https://github.com/yourusername) -->
 
-I'm **Hamas Saeed**, an **Embedded Firmware Engineer** with over **4 years** of experience in transforming silicon dreams into real-world solutions. From microcontrollers to IoT-powered devices, I ensure the invisible forces of the digital world work tirelessly to make lives smarter and more efficient. My goal? To bend hardware to my will, one bit at a time. 💻⚡
+I'm **Hamas Saeed**, an **Embedded Firmware Engineer** with over **5 years** of experience in transforming silicon dreams into real-world solutions. From microcontrollers to IoT-powered devices, I ensure the invisible forces of the digital world work tirelessly to make lives smarter and more efficient. My goal? To bend hardware to my will, one bit at a time. 💻⚡
 
 ## 🔥 Who am I?
 - 🎯 **IoT Firmware Engineer @ AMS-IoT** – I lead projects that bridge the gap between the physical and digital realms, creating **AWS-powered** IoT infrastructures and optimizing firmware performance.
