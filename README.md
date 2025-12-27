@@ -1,6 +1,7 @@
 # 👾 Hamas Saeed: Embedded Firmware Wizard 👾
 <p align="center">
-  <img src="https://media.giphy.com/media/Riu2QxvmfrvzRUs6Rv/giphy.gif" alt="Mind-blowing programmer" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXQ0aG5vdXN4MHZidzVlOXJreGN3bnR1MXliNGZxYjNxMjF1cXdrMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l7zabeVIt16efVp6wg/giphy.gif" alt="Mind-blowing programmer" /> 
+  <!-- <img src="https://media.giphy.com/media/Riu2QxvmfrvzRUs6Rv/giphy.gif" alt="Mind-blowing programmer" /> -->
 </p>
 > "There are 10 types of people in the world: those who understand binary, and those who don’t." 😎
 
